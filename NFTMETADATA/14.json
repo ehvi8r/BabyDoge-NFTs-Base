@@ -1,0 +1,19 @@
+{
+  "name": "BABYDOGE on Base #14",
+  "description": "BABYDOGE on Base Presale Collection",
+  "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/14.png",
+  "dna": "03dacb1bca9fb89a2f61fb198cd34f7fa94404a3",
+  "edition": 14,
+  "date": 1733246837512,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "LosMuertos11"
+    },
+    {
+      "trait_type": "babydoge",
+      "value": "BabyDoge17"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

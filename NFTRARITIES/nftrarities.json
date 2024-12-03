@@ -1,0 +1,203 @@
+Trait type: background
+{
+  trait: 'LosMuertos1',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos10',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos11',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos12',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos13',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos14',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos15',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos16',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos17',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos18',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos19',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos2',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos20',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos3',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos4',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos5',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos6',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos7',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos9',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+
+Trait type: babydoge
+{
+  trait: 'BabyDoge1',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge10',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge11',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge12',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge13',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge14',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge15',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge16',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge17',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge18',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge19',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge2',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge20',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'BabyDoge3',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge4',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge5',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge6',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge7',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'BabyDoge8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge9',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}

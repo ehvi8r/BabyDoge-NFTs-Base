@@ -1,0 +1,382 @@
+[
+  {
+    "name": "BABYDOGE on Base #1",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/1.png",
+    "dna": "ec535cf2e3fbb2b77bc2a0a268e6ea3bfa86d5b0",
+    "edition": 1,
+    "date": 1733246834815,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos17"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge20"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #2",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/2.png",
+    "dna": "88b3553540234695aa83211210a1c61a87ee4860",
+    "edition": 2,
+    "date": 1733246835003,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos2"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #3",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/3.png",
+    "dna": "a5eeecdb4a7958eab3adc6629aa5de55d5c172ed",
+    "edition": 3,
+    "date": 1733246835240,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos5"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #4",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/4.png",
+    "dna": "2215b505beb866935056f9e3d89eeb5956c54027",
+    "edition": 4,
+    "date": 1733246835440,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos20"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #5",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/5.png",
+    "dna": "784f9b736a7d64240276ef428fd64a1f1a03cd37",
+    "edition": 5,
+    "date": 1733246835636,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos3"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge16"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #6",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/6.png",
+    "dna": "d111328e512f451cb6faa4d523e9d155f69786dc",
+    "edition": 6,
+    "date": 1733246835826,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos20"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge17"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #7",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/7.png",
+    "dna": "fabae6422353cf3b199469434fcc9188f38d20f8",
+    "edition": 7,
+    "date": 1733246836054,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos16"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #8",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/8.png",
+    "dna": "5bad668b77f882993c1a39e9a3b8ae3aadab85a6",
+    "edition": 8,
+    "date": 1733246836271,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos17"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge16"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #9",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/9.png",
+    "dna": "f69ef58be76e2b13ba9cf36b9f718abb44d6b87c",
+    "edition": 9,
+    "date": 1733246836505,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos10"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge20"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #10",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/10.png",
+    "dna": "45ce123160374e56844da8160c7ce928cadb2dd2",
+    "edition": 10,
+    "date": 1733246836730,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos13"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge18"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #11",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/11.png",
+    "dna": "0002940076ce6ffee476993b0119977680fd13d6",
+    "edition": 11,
+    "date": 1733246836916,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos10"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #12",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/12.png",
+    "dna": "64b06ae1ae9bf05db1ba3e96c4e5c3ad29eb4251",
+    "edition": 12,
+    "date": 1733246837128,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos4"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #13",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/13.png",
+    "dna": "1ec687ab1ce85bbb31342b82e02f1766cc42ce31",
+    "edition": 13,
+    "date": 1733246837325,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos15"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #14",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/14.png",
+    "dna": "03dacb1bca9fb89a2f61fb198cd34f7fa94404a3",
+    "edition": 14,
+    "date": 1733246837512,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos11"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge17"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #15",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/15.png",
+    "dna": "00f4bae81259a0a07a14be45cc51426b5de8e5be",
+    "edition": 15,
+    "date": 1733246837696,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos19"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #16",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/16.png",
+    "dna": "00fa863d4b60b97d6d47aaedbb9dc7354b725eab",
+    "edition": 16,
+    "date": 1733246837851,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos8"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #17",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/17.png",
+    "dna": "b435b4a1cad493c94de5150a0b4bda5e994b91a7",
+    "edition": 17,
+    "date": 1733246838037,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos12"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #18",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/18.png",
+    "dna": "f16e15b0f16414b17540392b7ab8342627b771ff",
+    "edition": 18,
+    "date": 1733246838265,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos4"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge19"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #19",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/19.png",
+    "dna": "349d5e2ebc3289cc372a0fe5fb879cf6c2033360",
+    "edition": 19,
+    "date": 1733246838451,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos2"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "BABYDOGE on Base #20",
+    "description": "BABYDOGE on Base Presale Collection",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-Base/main/NFTMETADATA/20.png",
+    "dna": "1448e3902b39a17e3cc7b169f5d60e06d7a3bac5",
+    "edition": 20,
+    "date": 1733246838636,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "LosMuertos6"
+      },
+      {
+        "trait_type": "babydoge",
+        "value": "BabyDoge20"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
